@@ -7,7 +7,7 @@ I design and build systems where hardware meets software: ESP32-based IoT, PLC a
 
 ---
 
-## 🔭 What I'm working on
+## 🔭 Current Projects
 
 - **BengaliRoboNLP (undergraduate thesis):** a bilingual (Bengali–English) voice and text command system that controls a 5-DOF robotic arm and 4-wheel mobile base. MuRIL for command understanding (F1 ≈ 0.93), YOLOv11m for object detection, MiDaS for depth estimation, ESP32 for motor control. Repository being published here.
 - **Publishing my project portfolio:** GPS geo-fencing system for agricultural tractors, PID self-balancing robot, and vision-based packaging defect detection.
@@ -36,6 +36,6 @@ I design and build systems where hardware meets software: ESP32-based IoT, PLC a
 
 - Email: tanjimsamad5@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tanjim-samad-swapnil-73338a239/
-- CV: [link to your CV, e.g. a PDF in a public repo or Drive link]
+- CV: https://drive.google.com/file/d/13YYOqgW1wAYmpigFPUgfUmq1bEmZVTrn/view?usp=sharing
 
 *Open to conversations about embedded systems, industrial IoT, and automation roles.*
