@@ -1,41 +1,22 @@
-# Hi, I'm Tanjim Samad Swapnil 👋
+# Tanjim Samad Swapnil
 
 **Mechatronics Engineer | Embedded Systems & IoT | Robotics & Computer Vision**
-BSc in Mechatronics Engineering, RUET (CGPA 3.50/4.00, graduated July 2026) · Bangladesh
+BSc Mechatronics, RUET (graduated July 2026) · Bangladesh · Open to embedded / IoT / automation roles
 
-I design and build systems where hardware meets software: ESP32-based IoT, PLC automation, and robotics with machine learning on top. I'm looking for **embedded / IoT / automation engineering roles** and open to relocation.
+## 🔭 Projects
+- **BengaliRoboNLP (thesis):** bilingual voice/text-controlled robotic arm and mobile base. MuRIL (F1 ≈ 0.93), YOLOv11m, MiDaS, ESP32.
+- **Publishing projects:** GPS tractor geo-fencing, PID self-balancing robot, vision-based defect detection.
+- **BNBC 2020 RAG system:** query decomposition and expert-reasoning layers.
 
----
+## 🛠️ Tools
+**Embedded/IoT:** ESP32, Arduino, Raspberry Pi, C/C++ · **Automation:** PLC (Ladder Diagram)
+**ML/Vision:** Python, YOLOv11m, MiDaS, MuRIL, ONNX · **Docs:** LaTeX, Git
 
-## 🔭 Current Projects
-
-- **BengaliRoboNLP (undergraduate thesis):** a bilingual (Bengali–English) voice and text command system that controls a 5-DOF robotic arm and 4-wheel mobile base. MuRIL for command understanding (F1 ≈ 0.93), YOLOv11m for object detection, MiDaS for depth estimation, ESP32 for motor control. Repository being published here.
-- **Publishing my project portfolio:** GPS geo-fencing system for agricultural tractors, PID self-balancing robot, and vision-based packaging defect detection.
-
-
-## 🛠️ Tools I use
-
-| Area | Tools |
-|---|---|
-| Embedded & IoT | ESP32, Arduino, Raspberry Pi, C/C++ |
-| Industrial automation | PLC programming (Ladder Diagram) |
-| Machine learning & vision | Python, YOLOv11m, MiDaS, MuRIL, ONNX, Google Colab |
-| Documentation | LaTeX, Git/GitHub |
-| Environment | Windows, PowerShell |
-
-## 💼 Experience
-
-- **Junior IoT Engineer**, Step Up IT
-- **Intern, Electrical & Automation Department**, GPH Ispat Ltd.
-
-## 📄 Publication
-
-- Metamaterial structural optimization, **ICME 2025**, BUET (co-author).
+## 💼 Background
+Junior IoT Engineer, Step Up IT · Intern (Electrical & Automation), GPH Ispat Ltd.
+Co-author, ICME 2025 (BUET), metamaterial structural optimization
 
 ## 📫 Contact
-
-- Email: tanjimsamad5@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tanjim-samad-swapnil-73338a239/
-- CV: https://drive.google.com/file/d/13YYOqgW1wAYmpigFPUgfUmq1bEmZVTrn/view?usp=sharing
-
-*Open to conversations about embedded systems, industrial IoT, and automation roles.*
+Email: tanjimsamad5@gmail.com 
+LinkedIn: https://www.linkedin.com/in/tanjim-samad-swapnil-73338a239/ 
+CV: https://drive.google.com/file/d/13YYOqgW1wAYmpigFPUgfUmq1bEmZVTrn/view?usp=sharing
